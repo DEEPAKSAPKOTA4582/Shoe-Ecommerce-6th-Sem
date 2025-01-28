@@ -1,6 +1,4 @@
-# Frontend Mentor - E-commerce product page solution
 
-This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -65,21 +63,7 @@ This is my first deployed fullstack application using the MERN stack. As I progr
 
 
 
-### Useful resources
-
-- [Lama Dev](https://www.youtube.com/c/lamadev) - If you want to create any MERN stack project, lama dev is the place to start from.
-- [Dribble](dribbble.com) - Most of the inspiration for designing this website came from here. Be sure to check it out.
-- [Logrocket](https://blog.logrocket.com/handling-user-authentication-redux-toolkit/) - I used this to understand better login, logout and registration process.
-- [Unsplash](https://unsplash.com/) - This site is an endless reservior of images. I used this for my product images, using google image to find the names of the sneakers in the images.
-- [Stack Overflow](https://stackoverflow.com) - As always, stackoverflow is the place I go whenever I need any help.
-
-
-
 
 
 ## Author
-
-- Github - [Hikmah Yousuph](https://github.com/Hikmahx)
-- Frontend Mentor - [@Hikmahx](https://www.frontendmentor.io/profile/Hikmahx)
-- Email - [hikmayousuph@gmail.com](hikmayousuph@gmail.com)
-- LinkedIn - [Hikmah Yousuph](linkedin.com/in/hikmah-yousuph-449467204/)
+Deepak Sapkota
